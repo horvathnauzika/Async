@@ -1,0 +1,6 @@
+{
+    "termekek":[
+        {"nev": "banán", "ar": 400},
+        {"nev": "eper", "ar": 1000}
+    ]
+}
